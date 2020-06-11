@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3cf76044-d2da-45ad-b6d7-c1ab5300c35a" name="y">
+        <fileTransfer accessType="SFTP" host="yaop.ink" port="22" sshConfigId="27b3497a-8e36-4688-b3b9-52430878f8a5" sshConfig="tung@yaop.ink:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
